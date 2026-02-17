@@ -1,0 +1,18 @@
+{
+  "name": "draft-life-insurer-rich-ui",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^7.3.1",
+    "vite-plugin-singlefile": "^0.13.5"
+  }
+}
