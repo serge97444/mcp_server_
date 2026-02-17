@@ -1,0 +1,131 @@
+2026-02-17 13:33:42 INFO mcp_server Using widget variant: minimal
+2026-02-17 13:33:42 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 13:33:42 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\minimal\formulaire.html
+2026-02-17 13:34:01 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 1000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 13:34:01 INFO mcp_server payload=age=24 versement_initial=1000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 13:34:01 INFO mcp_server overall gain computed : gain=608.4372494752263
+2026-02-17 13:34:01 INFO mcp_server data={'age': '24', 'versement_initial': '1 000.00', 'duree_investissment': '24', 'niveau_risque': '1', 'overall_gain': '608.44', 'conditions_generales': "\ufeffContrat d'assurance vie – Conditions generales (extrait)\n\n1. Objet du contrat\nLe present contrat definit les conditions de couverture et les modalites de versement des primes.\n\n2. Versements\nLes versements peuvent etre ponctuels ou programmes. Des frais peuvent s'appliquer selon l'offre choisie.\n\n3. Risque\nLe niveau de risque depend de la repartition des supports d'investissement et des conditions de marche.\n\n4. Delai de renonciation\nVous disposez d'un delai legal pour renoncer a votre adhesion selon la legislation en vigueur.\n\n5. Informations\nCe document est un exemple. Remplacez-le par vos conditions generales officielles.\n"}
+2026-02-17 13:34:01 INFO mcp_server Rendered HTML length=3999
+2026-02-17 13:34:01 DEBUG mcp_server Structured content keys: ['age', 'versement_initial', 'duree_investissment', 'niveau_risque', 'overall_gain', 'conditions_generales']
+2026-02-17 13:39:34 INFO mcp_server Using widget variant: minimal
+2026-02-17 13:39:34 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 13:39:34 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\minimal\formulaire.html
+2026-02-17 13:40:15 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 13:40:19 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 13:41:04 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 1000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 13:41:04 INFO mcp_server payload=age=24 versement_initial=1000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 13:41:04 INFO mcp_server overall gain computed : gain=608.4372494752263
+2026-02-17 13:41:04 INFO mcp_server data={'age': '24', 'versement_initial': '1 000.00', 'duree_investissment': '24', 'niveau_risque': '1', 'overall_gain': '608.44', 'conditions_generales': "\ufeffContrat d'assurance vie – Conditions generales (extrait)\n\n1. Objet du contrat\nLe present contrat definit les conditions de couverture et les modalites de versement des primes.\n\n2. Versements\nLes versements peuvent etre ponctuels ou programmes. Des frais peuvent s'appliquer selon l'offre choisie.\n\n3. Risque\nLe niveau de risque depend de la repartition des supports d'investissement et des conditions de marche.\n\n4. Delai de renonciation\nVous disposez d'un delai legal pour renoncer a votre adhesion selon la legislation en vigueur.\n\n5. Informations\nCe document est un exemple. Remplacez-le par vos conditions generales officielles.\n"}
+2026-02-17 13:41:04 INFO mcp_server Rendered HTML length=4013
+2026-02-17 13:41:04 DEBUG mcp_server Structured content keys: ['age', 'versement_initial', 'duree_investissment', 'niveau_risque', 'overall_gain', 'conditions_generales']
+2026-02-17 13:51:58 INFO mcp_server Using widget variant: rich
+2026-02-17 13:51:58 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 13:51:58 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 13:55:23 INFO mcp_server Using widget variant: rich
+2026-02-17 13:55:23 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 13:55:23 INFO mcp_server Widget debug enabled: False
+2026-02-17 13:55:23 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 13:56:14 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 13:56:19 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 13:56:40 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 1000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 13:56:40 INFO mcp_server payload=age=24 versement_initial=1000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 13:56:40 INFO mcp_server overall gain computed : gain=608.4372494752263
+2026-02-17 13:56:40 INFO mcp_server data={'age': '24', 'versement_initial': '1 000.00', 'duree_investissment': '24', 'niveau_risque': '1', 'overall_gain': '608.44', 'conditions_generales': "\ufeffContrat d'assurance vie – Conditions generales (extrait)\n\n1. Objet du contrat\nLe present contrat definit les conditions de couverture et les modalites de versement des primes.\n\n2. Versements\nLes versements peuvent etre ponctuels ou programmes. Des frais peuvent s'appliquer selon l'offre choisie.\n\n3. Risque\nLe niveau de risque depend de la repartition des supports d'investissement et des conditions de marche.\n\n4. Delai de renonciation\nVous disposez d'un delai legal pour renoncer a votre adhesion selon la legislation en vigueur.\n\n5. Informations\nCe document est un exemple. Remplacez-le par vos conditions generales officielles.\n"}
+2026-02-17 13:56:40 INFO mcp_server Rendered HTML length=149804
+2026-02-17 13:56:40 DEBUG mcp_server Structured content keys: ['age', 'versement_initial', 'duree_investissment', 'niveau_risque', 'overall_gain', 'conditions_generales']
+2026-02-17 15:09:16 INFO mcp_server Using widget variant: rich
+2026-02-17 15:09:16 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 15:09:16 INFO mcp_server Widget debug enabled: True
+2026-02-17 15:09:16 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 15:17:35 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 15:17:38 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 15:18:08 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 1000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 15:18:08 INFO mcp_server payload=age=24 versement_initial=1000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 15:18:08 INFO mcp_server overall gain computed : gain=608.4372494752263
+2026-02-17 15:18:08 INFO mcp_server data={'age': '24', 'versement_initial': '1 000.00', 'duree_investissment': '24', 'niveau_risque': '1', 'overall_gain': '608.44', 'conditions_generales': "\ufeffContrat d'assurance vie – Conditions generales (extrait)\n\n1. Objet du contrat\nLe present contrat definit les conditions de couverture et les modalites de versement des primes.\n\n2. Versements\nLes versements peuvent etre ponctuels ou programmes. Des frais peuvent s'appliquer selon l'offre choisie.\n\n3. Risque\nLe niveau de risque depend de la repartition des supports d'investissement et des conditions de marche.\n\n4. Delai de renonciation\nVous disposez d'un delai legal pour renoncer a votre adhesion selon la legislation en vigueur.\n\n5. Informations\nCe document est un exemple. Remplacez-le par vos conditions generales officielles.\n"}
+2026-02-17 15:18:08 INFO mcp_server Rendered HTML length=151068
+2026-02-17 15:18:08 DEBUG mcp_server Structured content keys: ['age', 'versement_initial', 'duree_investissment', 'niveau_risque', 'overall_gain', 'conditions_generales']
+2026-02-17 15:42:58 INFO mcp_server Using widget variant: rich
+2026-02-17 15:42:58 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 15:42:58 INFO mcp_server Widget debug enabled: True
+2026-02-17 15:42:58 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 15:44:32 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 15:44:37 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 15:45:00 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 1000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 15:45:00 INFO mcp_server payload=age=24 versement_initial=1000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 15:45:00 INFO mcp_server overall gain computed : gain=608.4372494752263
+2026-02-17 15:45:00 INFO mcp_server data={'age': '24', 'versement_initial': '1 000.00', 'duree_investissment': '24', 'niveau_risque': '1', 'overall_gain': '608.44', 'conditions_generales': "\ufeffContrat d'assurance vie – Conditions generales (extrait)\n\n1. Objet du contrat\nLe present contrat definit les conditions de couverture et les modalites de versement des primes.\n\n2. Versements\nLes versements peuvent etre ponctuels ou programmes. Des frais peuvent s'appliquer selon l'offre choisie.\n\n3. Risque\nLe niveau de risque depend de la repartition des supports d'investissement et des conditions de marche.\n\n4. Delai de renonciation\nVous disposez d'un delai legal pour renoncer a votre adhesion selon la legislation en vigueur.\n\n5. Informations\nCe document est un exemple. Remplacez-le par vos conditions generales officielles.\n"}
+2026-02-17 15:45:00 INFO mcp_server Rendered HTML length=151117
+2026-02-17 15:45:00 DEBUG mcp_server Structured content keys: ['age', 'versement_initial', 'duree_investissment', 'niveau_risque', 'overall_gain', 'conditions_generales']
+2026-02-17 16:00:52 INFO mcp_server Using widget variant: rich
+2026-02-17 16:00:52 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 16:00:52 INFO mcp_server Widget debug enabled: True
+2026-02-17 16:00:52 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 16:01:03 INFO mcp_server Using widget variant: rich
+2026-02-17 16:01:03 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 16:01:03 INFO mcp_server Widget debug enabled: True
+2026-02-17 16:01:03 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 16:01:52 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 16:01:56 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 16:02:18 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 1000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 16:02:18 INFO mcp_server payload=age=24 versement_initial=1000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 16:02:18 INFO mcp_server overall gain computed : gain=608.4372494752263
+2026-02-17 16:02:18 INFO mcp_server data={'age': '24', 'versement_initial': '1 000.00', 'duree_investissment': '24', 'niveau_risque': '1', 'overall_gain': '608.44', 'conditions_generales': "\ufeffContrat d'assurance vie – Conditions generales (extrait)\n\n1. Objet du contrat\nLe present contrat definit les conditions de couverture et les modalites de versement des primes.\n\n2. Versements\nLes versements peuvent etre ponctuels ou programmes. Des frais peuvent s'appliquer selon l'offre choisie.\n\n3. Risque\nLe niveau de risque depend de la repartition des supports d'investissement et des conditions de marche.\n\n4. Delai de renonciation\nVous disposez d'un delai legal pour renoncer a votre adhesion selon la legislation en vigueur.\n\n5. Informations\nCe document est un exemple. Remplacez-le par vos conditions generales officielles.\n", 'link_display': 'https://www.caisse-epargne.fr/epargner/millevie-per/'}
+2026-02-17 16:02:18 INFO mcp_server Rendered HTML length=151382
+2026-02-17 16:02:18 DEBUG mcp_server Structured content keys: ['age', 'versement_initial', 'duree_investissment', 'niveau_risque', 'overall_gain', 'conditions_generales', 'link_display']
+2026-02-17 16:06:02 INFO mcp_server Using widget variant: rich
+2026-02-17 16:06:02 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 16:06:02 INFO mcp_server Widget debug enabled: True
+2026-02-17 16:06:02 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 16:06:11 INFO mcp_server Using widget variant: rich
+2026-02-17 16:06:11 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 16:06:11 INFO mcp_server Widget debug enabled: True
+2026-02-17 16:06:11 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 16:08:21 INFO mcp_server Using widget variant: rich
+2026-02-17 16:08:21 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 16:08:21 INFO mcp_server Widget debug enabled: True
+2026-02-17 16:08:21 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 16:08:46 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 16:08:50 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 16:11:53 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 1000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 16:11:53 INFO mcp_server payload=age=24 versement_initial=1000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 16:11:53 INFO mcp_server overall gain computed : gain=608.4372494752263
+2026-02-17 16:11:53 INFO mcp_server data={'age': '24', 'versement_initial': '1 000.00', 'duree_investissment': '24', 'niveau_risque': '1', 'overall_gain': '608.44', 'conditions_generales': "\ufeffContrat d'assurance vie – Conditions generales (extrait)\n\n1. Objet du contrat\nLe present contrat definit les conditions de couverture et les modalites de versement des primes.\n\n2. Versements\nLes versements peuvent etre ponctuels ou programmes. Des frais peuvent s'appliquer selon l'offre choisie.\n\n3. Risque\nLe niveau de risque depend de la repartition des supports d'investissement et des conditions de marche.\n\n4. Delai de renonciation\nVous disposez d'un delai legal pour renoncer a votre adhesion selon la legislation en vigueur.\n\n5. Informations\nCe document est un exemple. Remplacez-le par vos conditions generales officielles.\n", 'link_display': 'https://www.banquepopulaire.fr/preparer-retraite/simulateur-per/'}
+2026-02-17 16:11:53 INFO mcp_server Rendered HTML length=151875
+2026-02-17 16:11:53 DEBUG mcp_server Structured content keys: ['age', 'versement_initial', 'duree_investissment', 'niveau_risque', 'overall_gain', 'conditions_generales', 'link_display']
+2026-02-17 16:20:32 INFO mcp_server Using widget variant: rich
+2026-02-17 16:20:32 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 16:20:32 INFO mcp_server Widget debug enabled: True
+2026-02-17 16:20:32 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 16:21:23 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 16:21:26 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 16:21:49 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 1000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 16:21:49 INFO mcp_server payload=age=24 versement_initial=1000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 16:21:49 INFO mcp_server overall gain computed : gain=608.4372494752263
+2026-02-17 16:21:59 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 1000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 16:21:59 INFO mcp_server payload=age=24 versement_initial=1000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 16:21:59 INFO mcp_server overall gain computed : gain=608.4372494752263
+2026-02-17 16:23:09 INFO mcp_server Using widget variant: rich
+2026-02-17 16:23:09 INFO mcp_server Logging to file: ./mcp_server.log
+2026-02-17 16:23:09 INFO mcp_server Widget debug enabled: True
+2026-02-17 16:23:09 INFO mcp_server Loaded widget HTML: C:\Users\benya\VS_projects\openai-mcp\custom_version\Assets\rich\formulaire.html
+2026-02-17 16:24:07 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 16:24:09 INFO mcp_server ReadResourceRequest uri=ui://widget/formulaire-v2.html
+2026-02-17 16:24:25 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 1000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 16:24:25 INFO mcp_server payload=age=24 versement_initial=1000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 16:24:25 INFO mcp_server overall gain computed : gain=608.4372494752263
+2026-02-17 16:24:25 INFO mcp_server data={'age': '24', 'versement_initial': '1 000.00', 'duree_investissment': '24', 'niveau_risque': '1', 'overall_gain': '608.44', 'conditions_generales': "\ufeffContrat d'assurance vie – Conditions generales (extrait)\n\n1. Objet du contrat\nLe present contrat definit les conditions de couverture et les modalites de versement des primes.\n\n2. Versements\nLes versements peuvent etre ponctuels ou programmes. Des frais peuvent s'appliquer selon l'offre choisie.\n\n3. Risque\nLe niveau de risque depend de la repartition des supports d'investissement et des conditions de marche.\n\n4. Delai de renonciation\nVous disposez d'un delai legal pour renoncer a votre adhesion selon la legislation en vigueur.\n\n5. Informations\nCe document est un exemple. Remplacez-le par vos conditions generales officielles.\n", 'link_display': 'https://www.banquepopulaire.fr/preparer-retraite/simulateur-per/'}
+2026-02-17 16:24:25 INFO mcp_server Rendered HTML length=151875
+2026-02-17 16:24:25 DEBUG mcp_server Structured content keys: ['age', 'versement_initial', 'duree_investissment', 'niveau_risque', 'overall_gain', 'conditions_generales', 'link_display']
+2026-02-17 16:25:16 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 12000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 16:25:16 INFO mcp_server payload=age=24 versement_initial=12000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 16:25:16 INFO mcp_server overall gain computed : gain=7301.246993702713
+2026-02-17 16:25:16 INFO mcp_server data={'age': '24', 'versement_initial': '12 000.00', 'duree_investissment': '24', 'niveau_risque': '1', 'overall_gain': '7 301.25', 'conditions_generales': "\ufeffContrat d'assurance vie – Conditions generales (extrait)\n\n1. Objet du contrat\nLe present contrat definit les conditions de couverture et les modalites de versement des primes.\n\n2. Versements\nLes versements peuvent etre ponctuels ou programmes. Des frais peuvent s'appliquer selon l'offre choisie.\n\n3. Risque\nLe niveau de risque depend de la repartition des supports d'investissement et des conditions de marche.\n\n4. Delai de renonciation\nVous disposez d'un delai legal pour renoncer a votre adhesion selon la legislation en vigueur.\n\n5. Informations\nCe document est un exemple. Remplacez-le par vos conditions generales officielles.\n", 'link_display': 'https://www.banquepopulaire.fr/preparer-retraite/simulateur-per/'}
+2026-02-17 16:25:16 INFO mcp_server Rendered HTML length=151887
+2026-02-17 16:25:16 DEBUG mcp_server Structured content keys: ['age', 'versement_initial', 'duree_investissment', 'niveau_risque', 'overall_gain', 'conditions_generales', 'link_display']
+2026-02-17 16:25:41 INFO mcp_server CallToolRequest  name=Call_PERI_Simulation arguments={'age': 24, 'versement_initial': 31000, 'duree_investissment': 24, 'niveau_risque': 1}
+2026-02-17 16:25:41 INFO mcp_server payload=age=24 versement_initial=31000.0 duree_investissment=24 niveau_risque=1
+2026-02-17 16:25:41 INFO mcp_server overall gain computed : gain=18861.554733732002
+2026-02-17 16:25:41 INFO mcp_server data={'age': '24', 'versement_initial': '31 000.00', 'duree_investissment': '24', 'niveau_risque': '1', 'overall_gain': '18 861.55', 'conditions_generales': "\ufeffContrat d'assurance vie – Conditions generales (extrait)\n\n1. Objet du contrat\nLe present contrat definit les conditions de couverture et les modalites de versement des primes.\n\n2. Versements\nLes versements peuvent etre ponctuels ou programmes. Des frais peuvent s'appliquer selon l'offre choisie.\n\n3. Risque\nLe niveau de risque depend de la repartition des supports d'investissement et des conditions de marche.\n\n4. Delai de renonciation\nVous disposez d'un delai legal pour renoncer a votre adhesion selon la legislation en vigueur.\n\n5. Informations\nCe document est un exemple. Remplacez-le par vos conditions generales officielles.\n", 'link_display': 'https://www.caisse-epargne.fr/epargner/millevie-per/'}
+2026-02-17 16:25:41 INFO mcp_server Rendered HTML length=151843
+2026-02-17 16:25:41 DEBUG mcp_server Structured content keys: ['age', 'versement_initial', 'duree_investissment', 'niveau_risque', 'overall_gain', 'conditions_generales', 'link_display']
