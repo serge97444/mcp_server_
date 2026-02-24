@@ -1,3 +1,5 @@
+/*this was totally AI  generated */
+
 :root {
   --bg-1: #714a80;
   --bg-2: #5a3a6b;
@@ -29,7 +31,7 @@ body {
   width: min(900px, 96vw);
   margin: 0 auto;
 }
-
+/* the hero is designed with rounded border radius 16 px box shadow */
 .hero {
   width: 100%;
   background: linear-gradient(140deg, #5a3a6b, #8a5ab3);
