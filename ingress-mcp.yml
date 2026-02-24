@@ -1,0 +1,22 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: mcp-ingress
+  annotations:
+    kubernetes.io/ingress.class: alb
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/target-type: ip
+    alb.ingress.kubernetes.io/listen-ports: '[{"HTTPS":443}]'
+    alb.ingress.kubernetes.io/certificate-arn: arn:aws:acm:us-east-1:127214178974:certificate/7b3d2f71-dfa1-4c30-8508-534b129febc6
+spec:
+  rules:
+  - host: mcp.amazing-life-insurance-company.com
+    http:
+      paths:
+      - path: /mcp
+        pathType: Prefix
+        backend:
+          service:
+            name: mcp-custom-server-service-v3
+            port:
+              number: 8000
