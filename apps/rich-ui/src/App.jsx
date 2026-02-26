@@ -60,6 +60,7 @@ export default function App({ data, debug = false, host = null }) {
     niveau_risque = "-",
     overall_gain = "-",
     conditions_generales = "",
+    intent = "",
   } = liveData || {};
 
   // const isReady = useMemo(() => {
@@ -97,15 +98,12 @@ export default function App({ data, debug = false, host = null }) {
     [age, versement_initial, duree_investissment, niveau_risque, overall_gain]
   );
 
+  if (!debug && intent && intent !== "simulation") {
+    return null;
+  }
+
   if (!isReady && !debug) {
-    return (
-      <div className="page">
-        <section className="panel">
-          <h2>Chargement...</h2>
-          <p className="sub">Preparation de votre simulation.</p>
-        </section>
-      </div>
-    );
+    return null;
   }
 
   return (
